@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="be.wive.flutter_scan_vws">
    <application
-        android:label="flutter_scan_vws"
+        android:label="Vws scan"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
